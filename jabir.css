@@ -1,0 +1,22 @@
+header{
+  background-color: white;
+  color: darkgreen;
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+}
+body{
+  background-color: skyblue;
+  color: darkgreen;
+  font-size: medium;
+  font-style: Bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  background-color: white;
+  color: darkgreen;
+  font-size: small
+}
